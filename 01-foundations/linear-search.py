@@ -1,3 +1,6 @@
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
 students = [12, 38, 2, 21, 24, 55]
 found = False
 comparisons = 0
